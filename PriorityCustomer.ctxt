@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PriorityCustomer()
+comment1.params=
+comment1.target=int\ getPriority()
+comment2.params=
+comment2.target=int\ getServiceTime()
+comment3.params=
+comment3.target=void\ decServiceTime()
+numComments=4
